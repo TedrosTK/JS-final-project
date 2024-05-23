@@ -164,18 +164,9 @@ button:active {
 .nav__link--primary:hover {
   text-decoration: none;
 }
-/* 
-
-LANDING
-
-*/
-
-#landing {
-  background-color: rgba(115, 66, 214, 0.1)
-}
 
 header {
-  height: calc(100vh - 600px);
+  height: calc(100vh - 800px);
 }
 
 .header__container {
@@ -226,7 +217,7 @@ FOOTER
 */
 
 footer {
-  background-color: #242424;
+  background-color: none;
 }
 
 .footer__logo {
@@ -329,10 +320,6 @@ footer {
   
     button {
       font-size: 18px;
-    }
-  
-    .book {
-      width: 50%;
     }
   }
   

@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const apiKey = "18a6a94e"; // Replace 'yourkey' with your actual API key from OMDB
+  const apiKey = "18a6a94e";
   const searchInput = document.getElementById("searchInput");
   const movieContainer = document.getElementById("movies-container");
 
